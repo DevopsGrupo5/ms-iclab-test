@@ -31,3 +31,5 @@
 # Add feature 1.a
 
 # Add feature 1.b
+
+# Add feature 1.c
