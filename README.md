@@ -1,4 +1,5 @@
 # Getting Started
+
 # Grupo5
 
 ## Windows
@@ -31,28 +32,6 @@
 
 # Add feature 1.a
 
-# Add feature 1.b
-
-# Add feature 1.c
-
-# Add feature 1.d
-
-# Add feature 1.e
-
-# Add feature 1.f
-
-# Add feature 1.g
-
-# Add feature 1.h
-
-# Add feature 1.i
-
-# Add feature 1.j
-
-# Add feature 1.k
-
-# Add feature 1.l
-
-# Add feature 1.m
-
 # Add feature 2.a
+
+# Add feature 3.a
