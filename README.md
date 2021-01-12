@@ -37,5 +37,9 @@ test
 
 # Add feature 2.a
 
+<<<<<<< HEAD
 # Add feature 3.a
+>>>>>>> develop
+=======
+# Add feature 3.a   
 >>>>>>> develop

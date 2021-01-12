@@ -12,12 +12,21 @@ repositories {
     mavenLocal()
     maven {
         url= uri('http://35.199.77.109:8081/repository/maven-public/')
+              
     }
+
+ maven {
+        url= uri('http://35.199.77.109:8081/repository/realese-v0.1.0/')
+
+    }
+
+
 }
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web:2.3.4.RELEASE'
     implementation 'com.google.code.gson:gson:2.6'
+    implementation 'com.devopusach2020:DevOpsUsach2020:1.0.0'
     runtimeOnly 'org.springframework.boot:spring-boot-devtools:2.3.4.RELEASE'
     testImplementation('org.springframework.boot:spring-boot-starter-test:2.3.4.RELEASE') {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
@@ -44,3 +53,4 @@ tasks.withType(JavaCompile) {
 test {
  useJUnitPlatform()
 }
+ 
