@@ -30,4 +30,4 @@
 - Registrar Pipeline en **_Jenkins -> Administrar Jenkins -> Configuración Global -> Global Pipeline Libraries_** bajo el nombre **_pipeline_**
 - Configurar _Multibranch Pipeline Job_ o _Pipeline Job_ en Jenkins con el repositorio del proyecto a procesar.
 
-- Feature Testing v1.0.13
+- Feature Testing v1.0.14
